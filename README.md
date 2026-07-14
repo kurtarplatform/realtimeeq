@@ -339,6 +339,11 @@ For questions or bug reports, please contact **muhammedsaraa@gmail.com** and **k
 
 ---
 
-### License
+## Related Publication
 
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+**Real-Time Seismic Detection with Edge-AI: A Balanced Comparison**  
+Muhammed Sara, Anas Eskander Mohammed Thabet Almaqtari, Suleyman Eken, Ismail Koc, Bilgehan Arslan, Tamer Kahveci, and Yilmaz Atay*.
+
+*Submitted to **Cluster Computing**, July 2026. Under review.*
+
+

@@ -335,7 +335,7 @@ If you use this work in your research, please cite it as follows:
 
 ### Contact
 
-For questions or bug reports, please open an issue or contact **muhammedsaraa@gmail.com**.
+For questions or bug reports, please open an issue or contact **muhammedsaraa@gmail.com** and **kurtar1001@gmail.com**.
 
 ---
 
